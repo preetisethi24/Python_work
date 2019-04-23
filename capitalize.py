@@ -7,4 +7,4 @@ def capitalize(string):
     return(" ".join(word.capitalize() for word in string.split(" "))) 
 
 print(capitalize("chris sethi"))
-print(capitalize("preeti sethi"))
+
